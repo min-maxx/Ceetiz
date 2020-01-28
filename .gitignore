@@ -1,2 +1,9 @@
 # Project exclude paths
 /target/
+/Ceetiz.iml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/workspace.xml
+/.idea/vcs.xml
